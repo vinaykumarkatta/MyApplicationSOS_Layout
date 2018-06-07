@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Safe Over Sorry</string>
+    <string name="title_activity_pick_destination">ChooseDestination</string>
+    <string-array name="duration_spinner">
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>20 min</item>
+        <item>25 min</item>
+        <item>30 min</item>
+    </string-array>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_sos">Sos</string>
+</resources>
